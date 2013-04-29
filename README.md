@@ -6,13 +6,13 @@ idea on how to use it.
 
 Options for items:
 
-* Name	id/name
-* Note	note to be shown in the summary ("charge batteries")
-* Weight	weight in grams
-* Scale	after how many days a new set of 'Number' items will be added, 0 if unaffected by days. For example: You might want to add a pair of socks for each day you are away. If 0: Your population of cameras will be constant.
-* Number	usually just 1, but if you want to add three snacks per day, set this to three. 
-* Spare	one set of additional 'Number' items will be added
-* Limit	maximum number of items (e.g. you might have only 8 t-shirts)
+* Name:	id/name
+* Note:	note to be shown in the summary ("charge batteries")
+* Weight:	weight in grams
+* Scale:	after how many days a new set of 'Number' items will be added, 0 if unaffected by days. For example: You might want to add a pair of socks for each day you are away. If 0: Your population of cameras will be constant.
+* Number:	usually just 1, but if you want to add three snacks per day, set this to three. 
+* Spare:	one set of additional 'Number' items will be added
+* Limit:	maximum number of items (e.g. you might have only 8 t-shirts)
 
 
 Sample output using example.json
