@@ -1,0 +1,127 @@
+{
+	"Kits": [
+		{"Name": "general", "Items": [
+			"phone",
+			"phone charger",
+			"keys",
+			"train ticket"
+		]}, 
+		{"Name": "clothing", "Items": [
+			"t-shirt",
+			"pullover",
+			"trousers"
+		]}, 
+		{"Name": "tent", "Items": [
+			"tent",
+		       	"sleeping bag",
+			"sleeping pad"
+		]}, 
+		{"Name": "first aid", "Items": [
+		       	"first aid set"
+		]},
+		{"Name": "stuff", "Items": [
+		       	"headlamp",
+		       	"multitool",
+		       	"knife",
+		       	"camera"
+		]}
+	],
+
+	"Items": [
+		{
+			"Name": "t-shirt",
+		       	"Scale": 2,
+		       	"Number": 1,
+		       	"Weight": 170,
+		       	"Limit": 3
+		}, 
+		{
+			"Name": "sleeping bag",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 620
+		}, 
+		{
+			"Name": "sleeping pad",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 680
+		}, 
+		{
+			"Name": "tent",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 1950
+		},
+		{
+			"Name": "camera",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 440,
+			"Note": "charge batteries"
+		},
+		{
+			"Name": "first aid set",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 660
+		},
+		{
+			"Name": "phone",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 72,
+			"Note": "charge batteries, check prepaid account"
+		},
+		{
+			"Name": "phone charger",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 45
+		},
+		{
+			"Name": "head lamp",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 90,
+			"Note": "pack additional batteries"
+		},
+		{
+			"Name": "multitool",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 330
+		},
+		{
+			"Name": "knife",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 250
+		},
+		{
+			"Name": "pullover",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 500,
+		},
+		{
+			"Name": "trousers",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 750,
+			"Spare": true
+		},
+		{
+			"Name": "keys",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 150
+		},
+		{
+			"Name": "train ticket",
+			"Scale": 0,
+			"Number": 1,
+			"Weight": 0
+		}
+	]
+}
